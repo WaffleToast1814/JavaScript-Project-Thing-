@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+
+
+.Background{
+    background-image: url("Wallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+   
+    
+}
+
+.HoS{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.Links{
+    font-size: 30px;
+    background-color: #8889CC;
+    text-align: center;
+    
+    
+    
+}
+.Links a{
+    text-decoration: none;
+}
+
+li{
+    display: inline;
+    margin-left: 50px;
+}
+
+li a{
+    color: black;
+}
+
+.Text{
+    color: #C0C0C0;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+.Text-2{
+    color: #C0C0C0;
+    text-align: center;
+    margin-top: 100px;
+    text-align: right;
+    margin-right: 90px;
+    font-size: 20px;
+}
+
+.Yatta-1{
+    margin-left: 100px;
+}
+
+.Background-2{
+    background-image: url("seele-spinning.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.Click-Button{
+    font-size: 30px;
+    margin-left: 430px;
+    margin-top: 600px;
+    background-color: #8889CC;
+    
+}
+
+.Background-3{
+    background-image: url("herta-kuru-kuru.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    width: 50vw;
+    margin-left: 300px;
+    
+}
+
+.Click-Button-2{
+    font-size: 20px;
+    background-color: #8889CC;
+
+}
+
+.Click-Button-3{
+    font-size: 20px;
+    background-color: #8889CC;
+    margin-left: 30px;
+}
+
+.Click-Button-4{
+    font-size: 20px;
+    background-color: #8889CC;
+    margin-left: 50px;
+}
+
+
+
+.Queen{
+    font-size: 40px;
+    text-align: center;
+}
+
+#Sirin{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.HoV{
+    margin-left: 450px;
+}
+
+.Hooman{
+    text-align: center;
+    
+}
+
+.Background-4{
+    background-color:  #BB6588;
+    height: 1000px;
+}
